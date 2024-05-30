@@ -1,0 +1,112 @@
+Ibreon XII,gas,1
+Tulia,gas,2
+Zexade,mining,3
+Iroria 7X,enemy,4
+Udarvis,gas,4
+Droutera 4IX,gas,4
+Igolla W8,mining,1
+Estrade,mining,4
+Drehiri,gas,5
+Cothorix,enemy,3
+Xelarvis,mining,2
+Druinov,enemy,4
+Denkerth,gas,2
+Rion,gas,5
+Merth,gas,5
+Leron,enemy,4
+Xochilia VS,mining,1
+Iketer,mining,3
+Brolnaistea 2OA,gas,3
+Nesippe,enemy,1
+Ikadus,mining,3
+Kuriuq,gas,2
+Gephahines X,gas,3
+Davinda,mining,3
+Zaphus,mining,1
+Lonadus R2,enemy,4
+Uchilles,mining,2
+Taxore,mining,2
+Ivion,gas,1
+Tahiri,enemy,5
+Uter,enemy,5
+Amides,enemy,3
+Hion,mining,5
+Punus,enemy,2
+Boxora,mining,3
+Lenia,enemy,3
+Retreron,gas,3
+Tara,gas,3
+Olillon,mining,2
+Baniri,mining,2
+Kilia,gas,2
+Akeon,mining,5
+Denides,mining,2
+Ucarro,mining,5
+Drilora,gas,2
+Uruta,enemy,5
+Vyke,mining,5
+Ketera,gas,3
+Eturn,enemy,5
+Ahebos,mining,3
+Manolla,enemy,2
+Itania,mining,4
+Nelore,enemy,5
+Cethea,enemy,5
+Athilles,enemy,4
+Vekao,enemy,3
+Gilea,mining,3
+Meruta,gas,5
+Crounus XI,gas,4
+Dricarro,mining,5
+Sanilia,mining,3
+Thelea,gas,5
+Akippe,gas,1
+Ogore,gas,1
+Gathiolea,mining,4
+Xileon,enemy,5
+Tater,enemy,2
+Udone IV,enemy,5
+Gevora,gas,4
+Aziri,enemy,3
+Gnulmoturn,gas,4
+Izeon,mining,5
+Athora,enemy,2
+Tutania,enemy,1
+Riagantu,enemy,2
+Esomia,mining,1
+Ondion,enemy,3
+Tolatune,enemy,1
+Edyria,enemy,1
+Vuruta,mining,1
+Aroria II,mining,5
+Purilia,enemy,5
+Gatheron,gas,4
+Magua,gas,5
+Xiliv,gas,4
+Cinoth,enemy,2
+Ziopagawa,gas,5
+Angichi,mining,5
+Xovunides,enemy,3
+Chestrarth IV,mining,1
+Zuthara,mining,2
+Thulnyke,gas,1
+Drethuhiri 73W,enemy,1
+Ziwei,enemy,4
+Drixetera,gas,5
+Lianrorix,gas,5
+Uchuna,gas,2
+Dumeron L46,enemy,3
+Doloulea,mining,4
+Kegawa,mining,4
+Inorth,mining,1
+Ozuno,gas,3
+Nalarth 21C,mining,5
+Sukurn,enemy,3
+Arorix,gas,5
+Ethichi,mining,5
+Baiwei,mining,5
+Xore TE,mining,2
+Ixippe,enemy,2
+Olorix,enemy,2
+Thazuruta,mining,4
+Etion 4LT,enemy,1

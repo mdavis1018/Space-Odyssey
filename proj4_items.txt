@@ -1,0 +1,85 @@
+Basic armor,armor, 1
+Basic engine,engine, 1
+Basic weapon,weapon, 1
+BB high-energy plasma storage cell,engine,3
+AeroMaster XI hull,armor,5
+AR-0B damage reduction armor component,armor,3
+AUG-4C reactor component,engine,1
+Barrage Rocket,weapon,1
+Beam focuser,engine,1
+Beam weapon,weapon,2
+Beamrail Gauss Cannon,weapon,1
+Bio-energy array,weapon,2
+Bomblet Generator,weapon,4
+Breacher One,weapon,2
+Carbon-nanofilament armor,armor,1
+Cerro-ablative sheet,armor,4
+Cluster bomb launcher,weapon,4
+Concussion sphere,weapon,3
+Cryogenic capacitor,engine,3
+Cryogenic cell,engine,2
+Crystal oscillator,engine,5
+Drill-spike,weapon,2
+Energizer,engine,3
+Energy bomb,weapon,4
+Enhanced carbon-durasteel armor,armor,2
+Ferro-magnesium armor plate,armor,3
+Flak gun,weapon,3
+Fotia's Fire launcher,weapon,4
+Fuel pod,engine,4
+Fusion Accelerator Cannon,weapon,4
+G2 Spider Shell,armor,2
+G-32 evasive armor plating,armor,4
+Heavy gun,weapon,4
+Heavy ordnance pod,weapon,2
+Hell projector,weapon,1
+Homing missile,weapon,3
+HP-S-5 starfighter armor,armor,3
+H-Stable Power Cell,engine,4
+Hyper-point destablizer,weapon,4
+Incinerator-class plasma railgun,weapon,3
+Ion Inductor,engine,4
+Ion-collector pod,engine,1
+J-14,armor,2
+Kuat Vonak A2-C dorsal laser turret,weapon,2
+KV609-B engine battery cell,engine,3
+L-41C weapon power converter,engine,5
+Laser beams,weapon,2
+Lightning gun ,weapon,2
+Long gun,weapon,2
+Megamaser,weapon,3
+Microparticle Ion Accelerator,engine,5
+M-L4 Seeker,weapon,3
+N21-3 power converter,engine,5
+NK-3 medium ion cannon,weapon,2
+Null-burst projector,weapon,2
+Orbital autocannon,weapon,4
+Orbital strike cannon,weapon,1
+Particle Motivator,engine,4
+Plasma conduit,engine,2
+Power conduit,engine,3
+Power relay inverter,engine,5
+Power Surge Loop,engine,5
+Power turret,weapon,3
+Proton beam cannon,weapon,3
+QV-3 Disruptor,weapon,4
+Reactant agitator injector,engine,2
+Scythe Weapon,weapon,3
+Shield leech weapon,weapon,3
+Ship-scale disruptor,weapon,4
+Shock cannon,weapon,2
+Slipstream IV hull,armor,4
+Solar ionization cannon,weapon,1
+SOSW Power Converter,engine,2
+Space-mine ejector,weapon,1
+SR-09 reactor component,engine,4
+T-06 hull,armor,1
+TLB power converter,engine,1
+TLB power converter,engine,3
+Tomral RM-76 heavy laser cannon,weapon,1
+Tri-Particle Beamer,weapon,5
+Turbolaser,weapon,1
+UL.2 Power Modulator,engine,3
+Urgent Need reactor component,engine,2
+Vinop O2 K ionization reactor,engine,1
+XF-16 power generator,engine,5
